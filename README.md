@@ -1,3 +1,4 @@
+<img src="https://github.com/mariathmatheus/mariathmatheus/blob/main/Animation.gif"/>
 ### 🛠  Tech Stack
 <div>
 <img src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
