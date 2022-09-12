@@ -1,4 +1,5 @@
 <img src="https://github.com/mariathmatheus/mariathmatheus/blob/main/Animation.gif"/>
+
 ### 🛠  Tech Stack
 <div>
 <img src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -10,15 +11,14 @@
 <div>
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mariathmatheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariathmatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermerisu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariathmatheus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mariathmatheus)](https://github.com/mariathmatheus)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariathmatheus/)](https://www.linkedin.com/in/mariathmatheus/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariathmatheus@outlook.com
-)](mailto:mariathmatheus@outlook.com
-)
+)](mailto:mariathmatheus@outlook.com)
 <img src="https://komarev.com/ghpvc/?username=mariathmatheus&color=49f135">
