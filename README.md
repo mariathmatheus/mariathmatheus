@@ -58,7 +58,7 @@ Favorite anime: *Monster*. The nameless monster hit me hard. Favorite manga: *Bl
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nerdresolve\&theme=dark\&hide_border=true\&background=00000000\&ring=6e7681\&fire=6e7681\&currStreakLabel=6e7681)](https://github.com/nerdresolve)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nerdresolve\&theme=dark\&hide_border=true\&background=00000000\&ring=6e7681\&fire=6e7681\&currStreakLabel=6e7681)](https://github.com/mariathmatheus)
 
 </div>
 
